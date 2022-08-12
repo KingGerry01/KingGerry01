@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingGerry01
 - 👀 I’m interested in software programming
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ideas and projects to further my learning
 - 📫 How to reach me ...
 
